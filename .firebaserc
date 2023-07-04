@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "bauhaus-research"
+  },
+  "targets": {
+    "bauhaus-research": {
+      "hosting": {
+        "bauhaus-research": [
+          "bauhaus-research"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
